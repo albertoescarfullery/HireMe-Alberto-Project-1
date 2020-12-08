@@ -1,0 +1,40 @@
+img {
+    height: 400px;
+    border: 50px;
+}
+
+h1 {
+    color: #1aa3ff;
+}
+
+h2 {
+    color: #ffbb33;
+}
+
+li {
+    color: #0241a1;
+}
+
+.Favorite-Colors {
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #f4f5f0;
+}
+
+h1 {
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+li {
+    font-family: 'Righteous', cursive;
+}
+
+h2 {
+    font-family: 'Krona One', sans-serif;
+}
